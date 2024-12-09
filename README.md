@@ -23,8 +23,13 @@
 3. Visualization:
 * Bounding boxes are drawn around detected faces.
 * Emotion labels and confidence scores are displayed above each face.
+---
 
-
+## Technologies Used
+* Python 3.8+: The programming language used for development.
+* OpenCV: For video processing and capturing webcam data.
+* Mediapipe: For robust and accurate face detection.
+* Transformers (Hugging Face): For sentiment and emotion analysis.
 
 
 
