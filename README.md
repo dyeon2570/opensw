@@ -1,8 +1,7 @@
 # ARE YOU HAPPY? #
 ---
 ## Project Overview<br>
-### This project aims to develop a real-time system for detecting faces and analyzing emotions using open-source libraries Mediapipe and Hugging Face.
-### The system processes video input from a webcam, detects faces, and displays emotion analysis results in real time.
+###This project aims to develop a real-time system for detecting faces and analyzing emotions using open-source libraries Mediapipe and Hugging Face. The system processes video input from a webcam, detects faces, and displays emotion analysis results in real time. For more details, you can refer to the blog post: Create a Real-Time Face Emotion Detector with Python and Deep Learning.
 ---
 ## key points<br>
 ### 1. Emotion Recognition (5 emotions):
