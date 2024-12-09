@@ -1,4 +1,4 @@
-# ARE YOU HAPPY? #
+<img width="1392" alt="example3" src="https://github.com/user-attachments/assets/eaf1d39f-4a7f-4a94-a211-8887f1096ffc"># ARE YOU HAPPY? #
 ---
 ## Project Overview<br>
 
@@ -45,5 +45,6 @@ When the program runs, you'll see:
 ---
 
 ## image
+![][Uploading example3.png…]()
 
 
