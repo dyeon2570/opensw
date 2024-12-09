@@ -45,7 +45,5 @@ When the program runs, you'll see:
 ---
 
 ## image
-![Uploading 스크린샷 2024-12-09 오후 3.23.47.png…]()
-
 
 
