@@ -13,6 +13,7 @@ Capture the face from the live webcam feed every 3 seconds and perform emotion a
 Normalize the probability values for each emotion so that their sum equals 1.
 ### 4. Results Visualization:
 Display the proportion of each emotion in real-time on the screen for an intuitive understanding of the current state.
+
 ---
 ## Example Output
 When the program runs, you'll see:
