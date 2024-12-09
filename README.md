@@ -5,9 +5,14 @@
 ### The system processes video input from a webcam, detects faces, and displays emotion analysis results in real time.
 ---
 ## Features<br>
-- ### Real-Time Face Detection: Uses Mediapipe to detect faces in a live video feed.
-- ### Emotion Recognition: Predicts the emotion of the detected face using a Hugging Face sentiment analysis pipeline.
-- ### Interactive Interface: Displays the live video feed with bounding boxes and emotion labels for detected faces.<br>
+### 1. Emotion Recognition (5 emotions):
+Classify and analyze 5 emotions: neutral, sadness, anger, happiness, and surprise.
+### 2. Capture Every 3 Seconds:
+Capture the face from the live webcam feed every 3 seconds and perform emotion analysis.
+### 3. Normalize Proportions:
+Normalize the probability values for each emotion so that their sum equals 1.
+### 4. Results Visualization:
+Display the proportion of each emotion in real-time on the screen for an intuitive understanding of the current state.
 ---
 ## Example Output
 When the program runs, you'll see:
