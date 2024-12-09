@@ -4,7 +4,7 @@
 ### This project aims to develop a real-time system for detecting faces and analyzing emotions using open-source libraries Mediapipe and Hugging Face.
 ### The system processes video input from a webcam, detects faces, and displays emotion analysis results in real time.
 ---
-## keypoints<br>
+## key points<br>
 ### 1. Emotion Recognition (5 emotions):
 Classify and analyze 5 emotions: neutral, sadness, anger, happiness, and surprise.
 ### 2. Capture Every 3 Seconds:
