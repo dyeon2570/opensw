@@ -44,6 +44,6 @@ When the program runs, you'll see:
 * Transformers (Hugging Face): For sentiment and emotion analysis.
 ---
 
-##image
-![]("C:\Users\ejm37\Downloads\KakaoTalk_20241209_151652743_02.png")
+## image
+![](C:\Users\ejm37\Downloads\KakaoTalk_20241209_151652743_02.png)
 
