@@ -11,19 +11,19 @@ The system processes video input from a webcam, detects faces, and displays emot
 ---
 
 ## Code Overview
-Dependencies:
+1. Dependencies:
+* opencv-python: Captures video and displays the output.
+* mediapipe: Detects faces in the video feed.
+* transformers: Provides the Hugging Face sentiment analysis pipeline.
 
-1. opencv-python: Captures video and displays the output.
-mediapipe: Detects faces in the video feed.
-transformers: Provides the Hugging Face sentiment analysis pipeline.
-Key Components:
+2. Key Components:
+* Face Detection: Mediapipe detects faces and extracts bounding box information.
+* Emotion Prediction: Hugging Face's sentiment analysis pipeline predicts emotion using predefined text.
 
-2. Face Detection: Mediapipe detects faces and extracts bounding box information.
-Emotion Prediction: Hugging Face's sentiment analysis pipeline predicts emotion using predefined text.
-Visualization:
+3. Visualization:
+* Bounding boxes are drawn around detected faces.
+* Emotion labels and confidence scores are displayed above each face.
 
-3. Bounding boxes are drawn around detected faces.
-Emotion labels and confidence scores are displayed above each face.
 
 
 
