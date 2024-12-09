@@ -45,5 +45,7 @@ When the program runs, you'll see:
 ---
 
 ## image
-<img width="1072" alt="example1" src="https://github.com/user-attachments/assets/0ce0b744-bc96-408d-810e-32ba79b48c73">
+![Uploading 스크린샷 2024-12-09 오후 3.23.47.png…]()
+
+
 
