@@ -45,5 +45,5 @@ When the program runs, you'll see:
 ---
 
 ##image
-![Markdown Logo}("C:\Users\ejm37\Downloads\KakaoTalk_20241209_151652743_02.png")
+![]("C:\Users\ejm37\Downloads\KakaoTalk_20241209_151652743_02.png")
 
