@@ -45,5 +45,5 @@ When the program runs, you'll see:
 ---
 
 ## image
-![](C:\Users\ejm37\Downloads\KakaoTalk_20241209_151652743_02.png)
+<img width="1072" alt="example1" src="https://github.com/user-attachments/assets/0ce0b744-bc96-408d-810e-32ba79b48c73">
 
