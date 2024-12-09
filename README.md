@@ -42,6 +42,8 @@ When the program runs, you'll see:
 * OpenCV: For video processing and capturing webcam data.
 * Mediapipe: For robust and accurate face detection.
 * Transformers (Hugging Face): For sentiment and emotion analysis.
+---
 
-
+##image
+![Markdown Logo}("C:\Users\ejm37\Downloads\KakaoTalk_20241209_151652743_02.png")
 
