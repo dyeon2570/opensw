@@ -1,0 +1,28 @@
+import cv2
+
+cap = cv2.VideoCapture(0)  # 0번 카메라를 사용 (다른 카메라를 사용하려면 ID 변경)
+
+if not cap.isOpened():
+    print("Error: Cannot access the camera.")
+    exit()
+
+cv2.namedWindow("Live Camera View", cv2.WINDOW_NORMAL)  # 창 크기 조정 가능
+cv2.resizeWindow("Live Camera View", 800, 600)
+
+print("Press 'q' to exit the program.")
+
+while True:
+    ret, frame = cap.read()
+    if not ret:
+        print("Error: Failed to capture frame.")
+        break
+
+    # 프레임을 화면에 표시
+    cv2.imshow("Live Camera View", frame)
+
+    # 'q' 키를 누르면 종료
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+
+cap.release()
+cv2.destroyAllWindows()
